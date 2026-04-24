@@ -3,8 +3,8 @@
 > AI-powered personal nutrition coach built for AMD Slingshot Hackathon
 
 ## Live Demo
-- **App**: https://YOUR_PROJECT.web.app
-- **API**: https://nutrisense-backend-xxxx-uc.a.run.app/health
+- **App**: https://nutrisense-amd-hackathon.surge.sh
+- **API**: https://nutrisense-amd-hackathon.surge.sh
 
 ## Google Services Used
 | Service | Purpose |
